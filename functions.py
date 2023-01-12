@@ -1,2 +1,2 @@
-def printHello1():
-    print("Hello1")
+def printHello():
+    print("Hello5")
