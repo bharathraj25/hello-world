@@ -3,3 +3,6 @@ def printHello():
 
 def printHello2():
     print("HELLO2")
+
+def printHello3():
+    print("HELLO3")
