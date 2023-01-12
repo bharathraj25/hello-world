@@ -1,5 +1,5 @@
 def printHello():
-    print("Hello5")
+    print("Hello")
 
 def printHello1():
     print("Hello1")
